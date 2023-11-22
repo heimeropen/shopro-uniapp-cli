@@ -11,6 +11,9 @@
 </template>
 
 <script setup>
+  // goods detail html
+  import mpHtml from 'mp-html/dist/uni-app/components/mp-html/mp-html';
+
   import sheep from '@/sheep';
   const { safeAreaInsets } = sheep.$platform.device;
 

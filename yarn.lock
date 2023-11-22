@@ -4858,6 +4858,11 @@
   "resolved" "https://registry.npmmirror.com/module-alias/-/module-alias-2.2.3.tgz"
   "version" "2.2.3"
 
+"mp-html@^2.4.2":
+  "integrity" "sha512-MSfJh5ckuaI2uibeO4qiUl2e/j5fpXy6cmW/ZzSkb+U3rTJfMSNzODqrDwG0YWOd8BVI+tD9/jLZiBhJbMupUg=="
+  "resolved" "https://registry.npmmirror.com/mp-html/-/mp-html-2.4.2.tgz"
+  "version" "2.4.2"
+
 "ms@2.0.0":
   "integrity" "sha512-Tpp60P6IUJDTuOq/5Z8cdskzJujfwqfOTkrwIwj7IRISpnkJnT6SyJ4PCPnGMoFjC9ddhal5KVIYtAt97ix05A=="
   "resolved" "https://registry.npmmirror.com/ms/-/ms-2.0.0.tgz"
